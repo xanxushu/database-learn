@@ -375,16 +375,13 @@
 ！！！注意：当集群中存在虚拟机时关闭顺序应为：
 </span>
 
-<span style="color:red">
-1. 使用上面命令关闭三台机集群服务
+<span style="color:red">1. 使用上面命令关闭三台机集群服务
 </span>
 
-<span style="color:red">
-2. 关闭虚拟机
+<span style="color:red">2. 关闭虚拟机
 </span>
 
-<span style="color:red">
-3. 关闭主机
+<span style="color:red">3. 关闭主机
 </span>
 
 
