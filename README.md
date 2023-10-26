@@ -1,15 +1,3 @@
-<head>
-    <style>
-        .abc {
-        color:ff0000;
-        background-color:#FFCACA;
-        }
-    </style>
-</head>
-
-
-
-
 ## 10月9日-10月20日学习安排
 
 # Docker
